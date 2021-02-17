@@ -10,10 +10,10 @@ const App = () => {
    <>
    <Menu />
    <Switch>
-     <Route exact path="/" component={Home} />  
-     <Route exact path="/about" component={About} />  
-     <Route  path="/shop" component={Shop} /> 
-     <Route  path="/contact" component={Contact} /> 
+     <Route exact path="/ecommercedemo" component={Home} />  
+     <Route exact path="/ecommercedemo/about" component={About} />  
+     <Route  path="/ecommercedemo/shop" component={Shop} /> 
+     <Route  path="/ecommercedemo/contact" component={Contact} /> 
    </Switch>
 
    </>
