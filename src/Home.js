@@ -3,7 +3,7 @@ const Home = () => {
     return(
    
      <div>
-       <img src = "ecommerce-2140604_1920.jpg"></img>
+       <img src = "/public/ecommerce-2140604_1920.jpg"></img>
         
      </div>
     );
