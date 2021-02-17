@@ -66,22 +66,22 @@ function Shop(){
      {
       name: 'Happy ninja',
       cost: '$2.99',
-      image: 'T_7_front.jpg',
+      image: 'ecommercedemo/public/T_7_front.jpg',
      },
      {
       name: 'Men fashion',
       cost: '$3.99',
-      image: 'hoodie_3_front.jpg',
+      image: 'ecommercedemo/public/hoodie_3_front.jpg',
     },
     {
       name: 'Clothes',
       cost: '$5.99',
-      image: 'hoodie_5_front.jpg',
+      image: 'ecommercedemo/public/hoodie_5_front.jpg',
     },
     {
       name: 'Clothes trend',
       cost: '$8.99',
-      image: 'T_2_front.jpg',
+      image: 'ecommercedemo/public/T_2_front.jpg',
     },
    ])
     return(
